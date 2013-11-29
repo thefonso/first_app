@@ -25,13 +25,13 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: aweone_test
+  database: firstapp_test
   pool: 5
   password:
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: aweone_production
+  database: firstapp_production
   pool: 5
   password:
